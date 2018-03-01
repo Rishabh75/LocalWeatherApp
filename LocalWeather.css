@@ -1,0 +1,42 @@
+body{
+	color: black;
+	background-size: cover;
+	background-repeat: no-repeat;
+	opacity: 1;
+}
+h1{
+	font-family: 'Alex Brush';
+	font-size: 80px;
+	font-weight: bolder;
+}
+
+h3{
+	font-family: 'Alex Brush';
+	font-size: 40px;
+	font-weight: bolder;
+}
+
+.place{
+	font-family: 'Lobster';
+	font-size: 30px;
+	font-weight: bolder;
+}
+
+.longitude{
+	font-family: 'Arvo';
+	font-size: 20px;
+
+}
+
+.latitude{
+	font-family: 'Arvo';
+	font-size: 20px;
+}
+
+.forecast{
+	margin-top: 40px;
+}
+
+.fahrenheit{
+	margin-top: -60px;
+}
